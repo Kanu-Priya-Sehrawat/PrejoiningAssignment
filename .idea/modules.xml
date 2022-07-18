@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOPS-Concept/OOPS-Concept.iml" filepath="$PROJECT_DIR$/OOPS-Concept/OOPS-Concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrejoiningAssignment.iml" filepath="$PROJECT_DIR$/PrejoiningAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+    </modules>
+  </component>
+</project>
